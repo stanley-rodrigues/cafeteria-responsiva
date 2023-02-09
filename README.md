@@ -26,6 +26,8 @@ O projeto foi utilizado as seguintes linguagens:
 - [x] Css
 - [x] JavaScript
 
+  <a href="https://responsivecoffeeshop.netlify.app/"> Fique avontade para utilizar a aplicação. </a><br><br>
+
 ##  desenvolvedor
 
 <table>
